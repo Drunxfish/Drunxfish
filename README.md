@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Drunxfish
+- 👀 I’m interested in software development, web applications, and open-source contributions.
+- 🌱 I’m currently learning Laravel, advanced JavaScript, and  exploring full-stack development
+- 💞️ I’m looking to collaborate on open-source web projects, especially those focused on clean code and good architecture.
+- 📫 How to reach me: ._. or ._.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love working on both front-end and back-end challenges, and I'm passionate about creating user-friendly applications.
