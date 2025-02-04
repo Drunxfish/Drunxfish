@@ -1,8 +1,5 @@
-# 👨‍💻 About Me
-
-
+## About Me 
 ```js
-// About Me
 class Developer {
   constructor(name, role, skills, projects, location) {
     this.name = name;
