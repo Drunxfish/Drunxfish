@@ -1,5 +1,33 @@
-<h1 align="left">Hi there! 👋 I'm Alexandre, a Junior Software Developer</h1>
+# 👨‍💻 About Me
 
+
+```js
+// About Me
+class Developer {
+  constructor(name, role, skills, projects, location) {
+    this.name = name;
+    this.role = role;
+    this.skills = skills;
+    this.projects = projects;
+    this.location = location;
+  }
+
+introduce() { return `Hi, I'm ${this.name} 👋! I'm a ${this.role} passionate about coding and creating innovative solutions.`; }
+listSkills() { return `🛠️ Skills: ${this.skills.join(", ")}`; }
+showProjects() { return `🚀 Projects: ${this.projects.join(", ")}`; }
+getLocation() { return `📍 Based in: ${this.location}`; }
+
+}
+
+const Alexandre = new Developer(
+  "Alexandre",
+  "Junior Software Developer 👨‍💻",
+  ["JavaScript", "PHP", "Laravel", "HTML5", "Flutter", "MySQL"],
+  ["Easy-ZZP", "ToodleDo Task Manager", "Tax Service System", "Webshop", ],
+  "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
+);
+
+```
 ###
 
 <div align="center">
@@ -43,5 +71,5 @@
 </div>
 
 ###
-
+<br clear="both"> <img src="https://raw.githubusercontent.com/Drunxfish/Drunxfish/output/snake.svg" alt="Snake animation" />
 ###
