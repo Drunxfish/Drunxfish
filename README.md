@@ -18,17 +18,39 @@ showProjects() { return `🚀 Projects: ${this.projects.join(", ")}`; }
 getLocation() { return `📍 Based in: ${this.location}`; }
 
 }
-
+```
+```js
 const Alexandre = new Developer(
   "Alexandre",
   "Junior Software Developer 👨‍💻",
   ["JavaScript", "PHP", "Laravel", "HTML5", "Flutter", "MySQL"],
-  ["Easy-ZZP", "ToodleDo Task Manager", "Tax Service System", "Webshop", ],
+  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic", ],
   "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 );
 
 ```
 ###
+```js
+console.log(
+    `${Alexandre.introduce()}\n
+    ${Alexandre.listSkills()}\n
+    ${Alexandre.showProjects()}\n
+    ${Alexandre.getLocation()}\n`
+);
+```
+###
+
+``` console
+Hi, I'm Alexandre 👋! I'm a Junior Software Developer 👨‍💻 passionate about coding and creating innovative solutions.
+
+    🛠️ Skills: JavaScript, PHP, Laravel, HTML5, Flutter, MySQL
+
+    🚀 Projects: Easy-ZZP, ToodleDo Task Manager, Tax Service System, Webshop
+
+    📍 Based in: Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)
+
+```
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Drunxfish&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
