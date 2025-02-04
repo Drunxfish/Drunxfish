@@ -44,8 +44,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Drunxfish/Drunxfish/output/snake.svg" alt="Snake animation" />
-
 ###
