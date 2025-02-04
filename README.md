@@ -21,7 +21,7 @@ const Alexandre = new Developer(
   "Alexandre",
   "Junior Software Developer 👨‍💻",
   ["JavaScript", "PHP", "Laravel", "HTML5", "Flutter", "MySQL"],
-  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic", ],
+  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic System"],
   "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 );
 
@@ -42,7 +42,7 @@ Hi, I'm Alexandre 👋! I'm a Junior Software Developer 👨‍💻 passionate a
 
     🛠️ Skills: JavaScript, PHP, Laravel, HTML5, Flutter, MySQL
 
-    🚀 Projects: Easy-ZZP, ToodleDo Task Manager, Tax Service System, Webshop
+    🚀 Projects: ZZP-Portal, Task Manager, Tax Service System, Webshop, Online Dental Clinic System
 
     📍 Based in: Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)
 
