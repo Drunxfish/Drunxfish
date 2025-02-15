@@ -21,7 +21,7 @@ const Alexandre = new Developer(
   "Alexandre",
   "Junior Software Developer 👨‍💻",
   ["JavaScript", "PHP", "Laravel", "HTML5", "Flutter", "MySQL"],
-  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic System"],
+  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic System", "ToodleDo - APP"],
   "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 );
 
