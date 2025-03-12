@@ -1,50 +1,34 @@
-## 👨🏻‍💻About Me 
+### 🚀 About Me
+```console
+
+👋 Hi, I'm Alexandre!  
+
+🧑🏻‍💻 I'm a Junior Software Developer with a passion for coding and creating innovative solutions.  
+🧩 I love solving problems and learning new technologies 💻 to build efficient and user-friendly applications 🌐.  
+🌍 From web development to ⚙️ backend systems, I’m always eager to improve and work on exciting projects 🔧.  
+🌱 My goal is to grow as a developer and contribute to creating meaningful digital experiences ✨.
+
+```
+##
 ```js
-class Developer {
-  constructor(name, role, skills, projects, location) {
-    this.name = name;
-    this.role = role;
-    this.skills = skills;
-    this.projects = projects;
-    this.location = location;
-  }
-
-introduce() { return `Hi, I'm ${this.name} 👋! I'm a ${this.role} passionate about coding and creating innovative solutions.`; }
-listSkills() { return `🛠️ Skills: ${this.skills.join(", ")}`; }
-showProjects() { return `🚀 Projects: ${this.projects.join(", ")}`; }
-getLocation() { return `📍 Based in: ${this.location}`; }
-
-}
+const Alexandre = {
+  name: "Alexandre",
+  title: "Junior Software Developer 🧑🏻‍💻",
+  projects: [
+    "ZZP-Portal",
+    "Task Manager",
+    "Tax Service System",
+    "Webshop",
+    "Online Dental Clinic System",
+    "ToodleDo App",
+    "PixelFlap",
+    "Weathron"
+  ],
+  location: "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
+};
 ```
-```js
-const Alexandre = new Developer(
-  "Alexandre",
-  "Junior Software Developer 👨‍💻",
-  ["JavaScript", "PHP", "Laravel", "HTML5", "Flutter", "MySQL"],
-  ["ZZP-Portal", "Task Manager", "Tax Service System", "Webshop", "Online Dental Clinic System", "ToodleDo App", "PixelFlap", "Weathron"],
-  "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
-);
-
-```
-```js
-console.log(
-    `${Alexandre.introduce()}\n
-    ${Alexandre.listSkills()}\n
-    ${Alexandre.showProjects()}\n
-    ${Alexandre.getLocation()}\n`
-);
-```
-``` console
-Hi, I'm Alexandre 👋! I'm a Junior Software Developer 👨‍💻 passionate about coding and creating innovative solutions.
-
-    🛠️ Skills: JavaScript, PHP, Laravel, HTML5, Flutter, MySQL
-
-    🚀 Projects: ZZP-Portal, Task Manager, Tax Service System, Webshop, Online Dental Clinic System, ToodleDo App, PixelFlap, Weathron
-
-    📍 Based in: Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)
-
-```
-## 📚💻 Tech stack
+##
+### 📚💻 Tech stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
   <img width="12" />
@@ -62,7 +46,8 @@ Hi, I'm Alexandre 👋! I'm a Junior Software Developer 👨‍💻 passionate a
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
   <img width="12" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="flutter logo"  />
+<img width="12" />
 </div>
 
 ##
