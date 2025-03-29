@@ -22,7 +22,8 @@ const Alexandre = {
     "Online Dental Clinic System",
     "ToodleDo App",
     "PixelFlap",
-    "Weathron"
+    "Weathron",
+    "ThunderPHP"
   ],
   location: "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 };
