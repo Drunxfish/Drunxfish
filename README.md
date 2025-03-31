@@ -22,7 +22,8 @@ const Alexandre = {
     "ToodleDo (Task Manager App)",
     "PixelFlap",
     "Weathron",
-    "ThunderPHP"
+    "ThunderPHP",
+    "DEFINEIT"
   ],
   location: "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 };
