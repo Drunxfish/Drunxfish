@@ -13,7 +13,7 @@
 ```js
 const Alexandre = {
   name: "Alexandre",
-  title: "Junior Software Developer 🧑🏻‍💻",
+  title: "Software Developer 🧑🏻‍💻",
   projects: [
     "ZZP-Portal",
     "Tax Service System",
