@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Alexandre!  
 
-🧑🏻‍💻 I'm a Junior Software Developer with a passion for coding and creating innovative solutions.  
+🧑🏻‍💻 I'm a student and now Intern Backend Software Engineer with a passion for coding and creating innovative solutions.  
 🧩 I love solving problems and learning new technologies 💻 to build efficient and user-friendly applications 🌐.  
 🌍 From web development to ⚙️ backend systems, I’m always eager to improve and work on exciting projects 🔧.  
 🌱 My goal is to grow as a developer and contribute to creating meaningful digital experiences ✨.
@@ -13,19 +13,7 @@
 ```js
 const Alexandre = {
   name: "Alexandre",
-  title: "Software Developer 🧑🏻‍💻",
-  projects: [
-    "ZZP-Portal",
-    "Tax Service System",
-    "Online Dental Clinic System",
-    "Webshop",
-    "ToodleDo (Task Manager App)",
-    "PixelFlap",
-    "Weathron",
-    "ThunderPHP",
-    "DEFINEIT",
-    "Schiphol Orbital"
-  ],
+  title: "Intern Backend Software Engineer 🧑🏻‍💻",
   location: "Netherlands 🇳🇱 (Originally from Georgia 🇬🇪)"
 };
 ```
